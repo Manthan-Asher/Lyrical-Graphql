@@ -28,7 +28,7 @@
     "graphql": "^0.8.2",
     "graphql-tag": "^2.11.0",
     "html-webpack-plugin": "^4.3.0",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.21",
     "mongoose": "^5.9.26",
     "nodemon": "*",
     "passport": "^0.3.2",
